@@ -1,5 +1,6 @@
 Introduction
-  L'analyse forensique nécessite de respecter les bonnes pratiques en utilisant les outils adéquates pour analyser, comprendre les évènements passés et en extraire des conclusions. Il est nécessaire de la mettre en place lors d'une attaque informatique ou d'un incident informatique histoire de rejouer les étapes utilisées pour mettre en place la menace. Dans ce cas il sera question de trouver des éléments éssentiels inclus dans la clé et puvant résoudre le mystère.
+ 
+ L'analyse forensique nécessite de respecter les bonnes pratiques en utilisant les outils adéquates pour analyser, comprendre les évènements passés et en extraire des conclusions. Il est nécessaire de la mettre en place lors d'une attaque informatique ou d'un incident informatique histoire de rejouer les étapes utilisées pour mettre en place la menace. Dans ce cas il sera question de trouver des éléments éssentiels inclus dans la clé et puvant résoudre le mystère.
   
   Etat de l'Art
   
