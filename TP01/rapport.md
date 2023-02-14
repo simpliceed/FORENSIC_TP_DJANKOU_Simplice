@@ -11,3 +11,4 @@ Introduction
   Conclusion
   
 A la suite de cet investigation, nous allons procéder a un reporting auprès des personnes concernés et nous allons souligner que tout matériel issu de l'extérieur ne doit en aucun cas être branché sur un équipement du commissariat et encore seul les équipements ou périphériques fournis par la cellule informatique doivent être connecté aux système d'information du commissariat
+
