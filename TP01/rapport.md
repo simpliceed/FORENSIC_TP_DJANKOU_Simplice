@@ -11,5 +11,5 @@ Introduction
   Conclusion
   
 A la suite de cet investigation, nous allons procéder à un reporting auprès des personnes concernés et nous allons souligner que tout matériel issu de l'extérieur ne doit en aucun cas être branché sur un équipement du commissariat et encore seul les équipements ou périphériques fournis par la cellule informatique doivent être connecté aux système d'information du commissariat
-
+https://github.com/simpliceed/FORENSIC_TP_Simplice_DJANKOU/blob/main/TP01/Capture%20d%E2%80%99%C3%A9cran%202023-02-13%20220004.png
 
